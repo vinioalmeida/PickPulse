@@ -14,7 +14,7 @@ Vinicius e Thiagos encarregados do Código
 
 ## Como rodar a aplicação
 
-Com o ccódigo aberto em sua IDE de preferência, clique no botão de run, e em seguida abra o postman ou insomnia,
+Com o código aberto em sua IDE de preferência, clique no botão de run, e em seguida abra o postman ou insomnia,
 coloque o link: http://localhost:8080/, e use JSON para testar os endpoints.
 
 ### O que usamos:
