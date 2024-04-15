@@ -137,7 +137,21 @@ Retorna a conta cadastrada com o `email` informado
 
 ### Apagar Conta
 
-`DELETE` /conta/`{id}`
+`DELETE` /conta/`{3}`
 
 Apaga a conta com o `id` informado no path
+
+#### Exemplo de Resposta
+```js
+[
+    {
+        "id": 3
+        "email": "leonardo@leonardo.com"
+        "senha": "123"
+        "dataCriacao": "2024-04-10"
+        "ativa": false
+        "tipoConta": "usuario"
+    }
+]
+```
 
